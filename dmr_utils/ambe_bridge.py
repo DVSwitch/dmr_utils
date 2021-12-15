@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #
 ###############################################################################
-#   Copyright (C) 2017 Mike Zingman N4IRR
+#   Copyright (C) 2021 Mike Zingman N4IRR
 #
 #   This program is free software; you can redistribute it and/or modify
 #   it under the terms of the GNU General Public License as published by
@@ -49,7 +49,7 @@ import ambe_utils
 
 # Does anybody read this stuff? There's a PEP somewhere that says I should do this.
 __author__     = 'Mike Zingman, N4IRR and Cortney T. Buffington, N0MJS'
-__copyright__  = 'Copyright (c) 2017 Mike Zingman N4IRR'
+__copyright__  = 'Copyright (c) 2021 Mike Zingman N4IRR'
 __credits__    = 'Cortney T. Buffington, N0MJS; Colin Durbridge, G4EML, Steve Zingman, N4IRS; Jonathan Naylor, G4KLX; Hans Barthen, DL5DI; Torsten Shultze, DG1HT'
 __license__    = 'GNU GPLv3'
 __maintainer__ = 'Cort Buffington, N0MJS'
